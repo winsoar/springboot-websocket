@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ryweb:war">
+    <output-path>$PROJECT_DIR$/ryweb/target</output-path>
+    <root id="archive" name="ryweb.war">
+      <element id="artifact" artifact-name="ryweb:war exploded" />
+    </root>
+  </artifact>
+</component>
